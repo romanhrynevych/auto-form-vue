@@ -95,7 +95,7 @@ importers:
 
   playground:
     dependencies:
-      '@metamorfosilab/lib-template':
+      '@metamorfosilab/auto-form-vue':
         specifier: workspace:*
         version: link:..
     devDependencies:

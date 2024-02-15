@@ -1,4 +1,4 @@
-# @metamorfosilab/lib-template
+# auto-form-vue
 
 [![npm version][npm-version-src]][npm-version-href]
 [![npm downloads][npm-downloads-src]][npm-downloads-href]
@@ -8,7 +8,7 @@
 
 # Usage
 
-For usage of this library, just replace all `lib-template` with your library name.
+For usage of this library, just replace all `auto-form-vue` with your library name.
 
 Pnpm is a main package manager for this project. You can install it from [pnpm.io](https://pnpm.io/)
 
@@ -40,7 +40,7 @@ To config your github pages, go to `Settings` -> `Pages` and select `Source` to 
 
 # Documentation
 
-[Link ❤️](https://metamorfosilab.github.io/lib-template/)
+[Link ❤️](https://metamorfosilab.github.io/auto-form-vue/)
 
 # Release to `npm`
 
@@ -53,30 +53,30 @@ pnpm run release
 # Basic usage
 
 ```bash
-npm i @metamorfosilab/lib-template
+npm i @metamorfosilab/auto-form-vue
 ```
 
 ```bash
-pnpm i @metamorfosilab/lib-template
+pnpm i @metamorfosilab/auto-form-vue
 ```
 
 ```bash
-yarn add @metamorfosilab/lib-template
+yarn add @metamorfosilab/auto-form-vue
 ```
 
 ## License
 
-[MIT](./LICENSE) License © 2024-PRESENT [Metamorfosi Lab](https://github.com/MetamorfosiLab)
+[MIT](./LICENSE) License © 2024-PRESENT [Hrynevych Roman](https://github.com/romanhrynevych)
 
 <!-- Badges -->
 
-[npm-version-src]: https://img.shields.io/npm/v/@metamorfosilab/lib-template?style=flat&colorA=080f12&colorB=1fa669
-[npm-version-href]: https://npmjs.com/package/@metamorfosilab/lib-template
-[npm-downloads-src]: https://img.shields.io/npm/dm/@metamorfosilab/lib-template?style=flat&colorA=080f12&colorB=1fa669
-[npm-downloads-href]: https://npmjs.com/package/@metamorfosilab/lib-template
-[bundle-src]: https://img.shields.io/bundlephobia/minzip/@metamorfosilab/lib-template?style=flat&colorA=080f12&colorB=1fa669&label=minzip
-[bundle-href]: https://bundlephobia.com/result?p=@metamorfosilab/lib-template
-[license-src]: https://img.shields.io/github/license/@metamorfosilab/lib-template.svg?style=flat&colorA=080f12&colorB=1fa669
-[license-href]: https://github.com/@metamorfosilab/lib-template/blob/main/LICENSE
+[npm-version-src]: https://img.shields.io/npm/v/@metamorfosilab/auto-form-vue?style=flat&colorA=080f12&colorB=1fa669
+[npm-version-href]: https://npmjs.com/package/@metamorfosilab/auto-form-vue
+[npm-downloads-src]: https://img.shields.io/npm/dm/@metamorfosilab/auto-form-vue?style=flat&colorA=080f12&colorB=1fa669
+[npm-downloads-href]: https://npmjs.com/package/@metamorfosilab/auto-form-vue
+[bundle-src]: https://img.shields.io/bundlephobia/minzip/@metamorfosilab/auto-form-vue?style=flat&colorA=080f12&colorB=1fa669&label=minzip
+[bundle-href]: https://bundlephobia.com/result?p=@metamorfosilab/auto-form-vue
+[license-src]: https://img.shields.io/github/license/@metamorfosilab/auto-form-vue.svg?style=flat&colorA=080f12&colorB=1fa669
+[license-href]: https://github.com/@metamorfosilab/auto-form-vue/blob/main/LICENSE
 [jsdocs-src]: https://img.shields.io/badge/jsdocs-reference-080f12?style=flat&colorA=080f12&colorB=1fa669
-[jsdocs-href]: https://www.jsdocs.io/package/@metamorfosilab/lib-template
+[jsdocs-href]: https://www.jsdocs.io/package/@metamorfosilab/auto-form-vue

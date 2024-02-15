@@ -1,18 +1,18 @@
 {
-  "name": "@metamorfosilab/lib-template",
-  "shortName": "lib-template",
+  "name": "auto-form-vue",
+  "shortName": "auto-form-vue",
   "type": "module",
   "version": "0.0.0",
   "packageManager": "pnpm@8.14.0",
   "description": "_description_",
   "author": "Roman Hrynevych <hrynevych.romann@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/MetamorfosiLab/lib-template#readme",
+  "homepage": "https://github.com/romanhrynevych/auto-form-vue#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MetamorfosiLab/lib-template.git"
+    "url": "git+https://github.com/romanhrynevych/auto-form-vue.git"
   },
-  "bugs": "https://github.com/MetamorfosiLab/lib-template/issues",
+  "bugs": "https://github.com/romanhrynevych/auto-form-vue/issues",
   "sideEffects": false,
   "exports": {
     ".": {

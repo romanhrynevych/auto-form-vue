@@ -1,5 +1,5 @@
 import './style.css'
-import { sum } from '@metamorfosilab/lib-template'
+import { sum } from '@metamorfosilab/auto-form-vue'
 import typescriptLogo from './typescript.svg'
 import viteLogo from '/vite.svg'
 import { setupCounter } from './counter.ts'

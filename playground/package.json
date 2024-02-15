@@ -6,7 +6,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@metamorfosilab/lib-template": "workspace:*"
+    "@metamorfosilab/auto-form-vue": "workspace:*"
   },
   "devDependencies": {
     "pathe": "^1.1.2",
