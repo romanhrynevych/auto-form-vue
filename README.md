@@ -53,15 +53,15 @@ pnpm run release
 # Basic usage
 
 ```bash
-npm i @metamorfosilab/auto-form-vue
+npm i auto-form-vue
 ```
 
 ```bash
-pnpm i @metamorfosilab/auto-form-vue
+pnpm i auto-form-vue
 ```
 
 ```bash
-yarn add @metamorfosilab/auto-form-vue
+yarn add auto-form-vue
 ```
 
 ## License
@@ -70,13 +70,13 @@ yarn add @metamorfosilab/auto-form-vue
 
 <!-- Badges -->
 
-[npm-version-src]: https://img.shields.io/npm/v/@metamorfosilab/auto-form-vue?style=flat&colorA=080f12&colorB=1fa669
-[npm-version-href]: https://npmjs.com/package/@metamorfosilab/auto-form-vue
-[npm-downloads-src]: https://img.shields.io/npm/dm/@metamorfosilab/auto-form-vue?style=flat&colorA=080f12&colorB=1fa669
-[npm-downloads-href]: https://npmjs.com/package/@metamorfosilab/auto-form-vue
-[bundle-src]: https://img.shields.io/bundlephobia/minzip/@metamorfosilab/auto-form-vue?style=flat&colorA=080f12&colorB=1fa669&label=minzip
-[bundle-href]: https://bundlephobia.com/result?p=@metamorfosilab/auto-form-vue
-[license-src]: https://img.shields.io/github/license/@metamorfosilab/auto-form-vue.svg?style=flat&colorA=080f12&colorB=1fa669
-[license-href]: https://github.com/@metamorfosilab/auto-form-vue/blob/main/LICENSE
+[npm-version-src]: https://img.shields.io/npm/v/romanhrynevych/auto-form-vue?style=flat&colorA=080f12&colorB=1fa669
+[npm-version-href]: https://npmjs.com/package/romanhrynevych/auto-form-vue
+[npm-downloads-src]: https://img.shields.io/npm/dm/romanhrynevych/auto-form-vue?style=flat&colorA=080f12&colorB=1fa669
+[npm-downloads-href]: https://npmjs.com/package/romanhrynevych/auto-form-vue
+[bundle-src]: https://img.shields.io/bundlephobia/minzip/romanhrynevych/auto-form-vue?style=flat&colorA=080f12&colorB=1fa669&label=minzip
+[bundle-href]: https://bundlephobia.com/result?p=romanhrynevych/auto-form-vue
+[license-src]: https://img.shields.io/github/license/romanhrynevych/auto-form-vue.svg?style=flat&colorA=080f12&colorB=1fa669
+[license-href]: https://github.com/romanhrynevych/auto-form-vue/blob/main/LICENSE
 [jsdocs-src]: https://img.shields.io/badge/jsdocs-reference-080f12?style=flat&colorA=080f12&colorB=1fa669
-[jsdocs-href]: https://www.jsdocs.io/package/@metamorfosilab/auto-form-vue
+[jsdocs-href]: https://www.jsdocs.io/package/romanhrynevych/auto-form-vue
