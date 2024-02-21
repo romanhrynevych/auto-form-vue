@@ -1,5 +1,6 @@
 import { defineConfig } from 'rollup'
-import ts from 'rollup-plugin-ts'
+import ts from 'rollup-plugin-typescript2'
+import vue from '@vitejs/plugin-vue'
 import { banner, terserPlugin } from './rollup-full.config'
 import pkg from './package.json' assert { type: 'json' }
 
@@ -27,6 +28,7 @@ export default defineConfig(
       plugins: [
         terserPlugin,
         ts(),
+        vue(),
       ],
     },
   ],

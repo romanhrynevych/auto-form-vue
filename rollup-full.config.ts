@@ -5,7 +5,8 @@ import postcssCombineDuplicatedSelectors from 'postcss-combine-duplicated-select
 import cssnanoPlugin from 'cssnano'
 import postcss from 'rollup-plugin-postcss'
 import postcssImport from 'postcss-import'
-import ts from 'rollup-plugin-ts'
+import ts from 'rollup-plugin-typescript2'
+import vue from '@vitejs/plugin-vue'
 import pkg from './package.json' assert { type: 'json' }
 
 const srcDir = './src'
@@ -100,6 +101,7 @@ export default defineConfig(
     ],
     plugins: [
       ts(),
+      vue(),
       productionMode && terserPlugin,
     ],
   }, {
